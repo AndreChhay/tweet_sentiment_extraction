@@ -1,0 +1,5 @@
+glove.twitter.27B.25d.txt (code professeur)
+-> http://nlp.stanford.edu/data/glove.twitter.27B.zip
+
+train, test, submission dataset:
+-> https://www.kaggle.com/c/tweet-sentiment-extraction/data
